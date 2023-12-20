@@ -42,6 +42,7 @@ function Home() {
       <Title>Welcome to My React Homepage</Title>
       <Description>
         This is a simple homepage created using React and styled-components.
+        hi
       </Description>
       <Button>Get Started</Button>
     </Container>
